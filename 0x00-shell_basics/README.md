@@ -1,1 +1,1 @@
-This is the Readme file
+pwd - prints out the absolute path of the current directory
